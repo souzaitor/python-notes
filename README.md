@@ -1,8 +1,9 @@
-# python-notes
+# Python Notes
+
+Cheatsheet básica de Python baseada em estudos do livro Learning Python: Powerful Object‑Oriented, de Mark A. Lutz, e outras referências
 
 ## Sumário
 
-- [Sumário](#sumário)
 - [Introdução](#introdução)
   - [Operadores Matemáticos](#operadores-matemáticos)
   - [Conversão de Dados](#conversão-de-dados)
